@@ -156,3 +156,4 @@ ENV/
 .idea/sonarlint
 
 # End of https://www.gitignore.io/api/python,pycharm,visualstudiocode
+.DS_Store
